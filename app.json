@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/ccadmin1/Movie-Bot",
-    "repository": "https://github.com/ccadmin1/Movie-Bot",
+    "website": "https://github.com/ccadmin1/MBot",
+    "repository": "https://github.com/ccadmin1/MBot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
