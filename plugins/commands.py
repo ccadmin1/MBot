@@ -489,7 +489,7 @@ async def settings(client, message):
             reply_to_message_id=message.message_id
         )
 
-pyrogram.Client.on_chat_join_request()
+@Client.on_chat_join_request()
 async def newad(bot, update):
     print(update.chat.id)
     await bot.approve_chat_join_request(chat_id=update.chat.id, user_id=update.from_user.id)
