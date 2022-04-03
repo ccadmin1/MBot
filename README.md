@@ -33,7 +33,7 @@ Very Sempil Bot Auto Filter bot
 - [x] File Store
 - [x] Note Feature Added
 - [x] Purge
-
+- [x] Added auto approve
 ## Variables
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
