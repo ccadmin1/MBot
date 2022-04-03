@@ -1,4 +1,4 @@
-pyrogram.Client.on_chat_join_request()
+@Client.on_chat_join_request()
 
 async def newad(bot, update):
 
